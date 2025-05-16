@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chuma-siyaya
 - 👀 I’m interested in Music and tech
-- 🌱 I’m currently learning with the FNB app academy
+- 🌱 I’m currently learning App developement with the FNB app academy
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I used to be in the UJ choir
 
